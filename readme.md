@@ -2,7 +2,7 @@
 ## To compile & run
 
 ```bash
-cargo run
+cargo run --release
 ```
 
 ## How it works
